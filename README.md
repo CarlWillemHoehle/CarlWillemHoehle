@@ -15,4 +15,4 @@ Most projects are about:
   - scripting
 
 Main project:
-  **automatic design of modular pharma plant for multi-well plates and tubes using MBSE and generative design processes**
+  **automatic design of modular pharma plant for multi-well plates and tubes using MachineLearning and generative design processes**
